@@ -3,7 +3,7 @@ import React from 'react'
 import styled from 'styled-components'
 
 import { RandomShow } from './components/RandomShow'
-import { FilterShows } from './components/FilterShows'
+// import { FilterShows } from './components/FilterShows'
 
 const Main = styled.main`
   background-color: #161a1d;
